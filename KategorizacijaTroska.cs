@@ -20,7 +20,7 @@ namespace nk
         {
             string ispis = "";
            
-                ispis = Trosak + "kn - " + Kategorija;
+                ispis = Trosak + " kn - " + Kategorija;
             
             return ispis;
         }
