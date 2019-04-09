@@ -1,0 +1,10 @@
+C:\Users\foi.LABOS\Desktop\0nk\nk\nk\bin\Debug\nk.exe.config
+C:\Users\foi.LABOS\Desktop\0nk\nk\nk\bin\Debug\nk.exe
+C:\Users\foi.LABOS\Desktop\0nk\nk\nk\bin\Debug\nk.pdb
+C:\Users\foi.LABOS\Desktop\0nk\nk\nk\obj\Debug\nk.csprojAssemblyReference.cache
+C:\Users\foi.LABOS\Desktop\0nk\nk\nk\obj\Debug\nk.Form1.resources
+C:\Users\foi.LABOS\Desktop\0nk\nk\nk\obj\Debug\nk.Properties.Resources.resources
+C:\Users\foi.LABOS\Desktop\0nk\nk\nk\obj\Debug\nk.csproj.GenerateResource.cache
+C:\Users\foi.LABOS\Desktop\0nk\nk\nk\obj\Debug\nk.csproj.CoreCompileInputs.cache
+C:\Users\foi.LABOS\Desktop\0nk\nk\nk\obj\Debug\nk.exe
+C:\Users\foi.LABOS\Desktop\0nk\nk\nk\obj\Debug\nk.pdb
